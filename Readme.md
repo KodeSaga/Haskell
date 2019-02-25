@@ -7,4 +7,6 @@ https://vimeo.com/24676617 -  short talk on what makes Functional Programming - 
 GHC compiler - 100% Open Source
 
 Course -  https://www.linkedin.com/learning/learning-haskell-programming
-GHCI cli - stack ghci 
+
+GHCI cli -
+Command to start up command line --  stack ghci 
